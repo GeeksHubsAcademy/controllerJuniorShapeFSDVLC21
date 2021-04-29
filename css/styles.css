@@ -1,0 +1,41 @@
+
+.bigShape {
+    display: flex;
+    flex-direction: row;
+}
+
+.triggerL {
+    display: flex;
+    flex-direction: column;
+}
+
+.base {
+    width: 8em;
+    height: 10em;
+    background-color: grey;
+}
+
+.baseC {
+    width: 15em;
+}
+
+.triggerShapeL {
+    border-radius: 95% 0% 0% 0%;
+    height: 0.75em;
+    
+}
+
+.triggerShapeC {
+    height: 0.75em;
+   
+}
+
+.triggerShapeR {
+    border-radius: 0% 95% 0% 0%;
+    height: 0.75em;
+  
+}
+
+
+
+
